@@ -1,0 +1,1 @@
+web: dotnet exec ./BootLockApi.dll
